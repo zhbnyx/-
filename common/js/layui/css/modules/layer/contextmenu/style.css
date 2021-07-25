@@ -1,0 +1,9 @@
+body .layer-contextmenu{
+    background-color: red;
+}
+body .layer-contextmenu .layui-layer-tips .layui-layer-content{
+    background-color: green;
+}
+body .layer-contextmenu .layui-layer-setwin{
+    display: none;
+}
